@@ -13,6 +13,7 @@ This API Gateway serves as a central hub for handling requests directed towards 
 
 The Gateway plays a crucial role in securing access to these microservices by validating incoming JWT tokens.When a request is received, the Gateway checks for the presence of a valid JWT token. If the token is valid, the request is forwarded to the appropriate microservice.
 
+__Note: This Api Gateway is still under development any suggestion is welcome__
 ## Table of Contents
 - [Installation](#installation)
 - [License](#license)
